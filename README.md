@@ -4,8 +4,8 @@
 
 ### Apache
 
-* Source & Package : https://github.com/ATLENA/
-* Installation Guide : https://atlena.github.io/LAT-GUIDE-WEB
+* Source & Package : [go to Guthub Repository](https://github.com/ATLENA/)
+* Installation Guide : [go to Guide Document](https://atlena.github.io/LAT-GUIDE-WEB)
 * User Guide : 
 
 ### Tomcat
